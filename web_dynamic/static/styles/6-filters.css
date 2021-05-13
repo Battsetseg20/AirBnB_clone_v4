@@ -88,7 +88,7 @@ button:hover {
 }
 .popover ul li{
     padding: 4px;
-    padding-left: 10px;
+    padding-left: 25px;
 }
 
 .popover ul h2{
@@ -103,7 +103,7 @@ button:hover {
 }
 
 .amenities input[type=checkbox] {
-    margin-left: 20px;
+    margin-right: 10px;
 }
 
 .amenities h4 {
